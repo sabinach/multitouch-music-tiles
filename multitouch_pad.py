@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+# To run: python3 multitouch_pad.py
+
 ## Import the relevant files
 from sys import exit
 import cv2
